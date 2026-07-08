@@ -14,6 +14,7 @@ A structured repository dedicated to tracking my competitive programming journey
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
@@ -43,5 +44,6 @@ A structured repository dedicated to tracking my competitive programming journey
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
