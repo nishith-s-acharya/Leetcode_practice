@@ -16,6 +16,7 @@ A structured repository dedicated to tracking my competitive programming journey
 | ------- |
 | [0268-missing-number](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
