@@ -1,9 +1,9 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int count = 0;
+        int result = 0;
         for(int ele:nums){
-            count=count^ele;
+            result= result^ele;
         }
-        return count;
+        return result;
     }
 }
