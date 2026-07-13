@@ -14,6 +14,7 @@ A structured repository dedicated to tracking my competitive programming journey
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
@@ -26,6 +27,7 @@ A structured repository dedicated to tracking my competitive programming journey
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -35,6 +37,7 @@ A structured repository dedicated to tracking my competitive programming journey
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 ## Math
