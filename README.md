@@ -16,6 +16,7 @@ A structured repository dedicated to tracking my competitive programming journey
 | ------- |
 | [0053-maximum-subarray](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0268-missing-number) |
@@ -24,6 +25,7 @@ A structured repository dedicated to tracking my competitive programming journey
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
@@ -66,4 +68,8 @@ A structured repository dedicated to tracking my competitive programming journey
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0053-maximum-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
