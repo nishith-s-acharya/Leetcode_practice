@@ -15,6 +15,7 @@ A structured repository dedicated to tracking my competitive programming journey
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0136-single-number) |
@@ -25,6 +26,7 @@ A structured repository dedicated to tracking my competitive programming journey
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0268-missing-number) |
@@ -72,4 +74,8 @@ A structured repository dedicated to tracking my competitive programming journey
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
