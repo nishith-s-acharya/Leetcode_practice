@@ -16,6 +16,7 @@ A structured repository dedicated to tracking my competitive programming journey
 | ------- |
 | [0048-rotate-image](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
@@ -80,5 +81,10 @@ A structured repository dedicated to tracking my competitive programming journey
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
