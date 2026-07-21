@@ -25,6 +25,7 @@ A structured repository dedicated to tracking my competitive programming journey
 | [0268-missing-number](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A structured repository dedicated to tracking my competitive programming journey
 | [0169-majority-element](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A structured repository dedicated to tracking my competitive programming journey
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
