@@ -14,6 +14,7 @@ A structured repository dedicated to tracking my competitive programming journey
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0054-spiral-matrix) |
@@ -30,6 +31,7 @@ A structured repository dedicated to tracking my competitive programming journey
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0169-majority-element) |
