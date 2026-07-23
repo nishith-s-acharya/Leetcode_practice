@@ -6,26 +6,30 @@ class Solution {
         
     }
     public void sortColors(int[] nums) {
-        int low = 0;
-        int mid = 0;
-        int high = nums.length-1;
-        while(mid<=high){
-            if(nums[mid]==0){
-                swap(nums,low,mid);
-                low++;
-                mid++;
-            }
-            else if(nums[mid]==1){
-                mid++;
-            }else{
-                swap(nums,mid,high);
-                high--;
+        Arrays.sort(nums);
+        for(int i =0;i<nums.length;i++){
+            System.out.print(nums[i]);
+        }
+        // int low = 0;
+        // int mid = 0;
+        // int high = nums.length-1;
+        // while(mid<=high){
+        //     if(nums[mid]==0){
+        //         swap(nums,low,mid);
+        //         low++;
+        //         mid++;
+        //     }
+        //     else if(nums[mid]==1){
+        //         mid++;
+        //     }else{
+        //         swap(nums,mid,high);
+        //         high--;
               
-            }
-        }
-        for(int ele:nums){
-            System.out.print(ele+" ");
-        }
+        //     }
+        // }
+        // for(int ele:nums){
+        //     System.out.print(ele+" ");
+        // }
 
     }
 }
