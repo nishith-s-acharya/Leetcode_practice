@@ -2,41 +2,43 @@ import java.util.*;
 class Solution {
     public List<Integer> spiralOrder(int[][] arr) {
 
-        List<Integer> result = new ArrayList<>();
+       List<Integer> list= new ArrayList<>();
+        // for row 
+        int top = 0;
+        int bottom  = arr.length-1;
+
+        // for column
         int left = 0;
         int right = arr[0].length-1;
-        int top = 0;
-        int bottom = arr.length-1;
 
-
-        while(left<=right && top<=bottom){
-
-        for(int i=left;i<=right;i++){
-            result.add(arr[top][i]);
+        while(top<=bottom && left<=right)
+        {
+        for(int i = left;i<=right;i++){
+            list.add(arr[top][i]);
         }
         top++;
-        for(int i=top;i<=bottom;i++){
-            result.add(arr[i][right]);
+        for(int i =top;i<=bottom;i++){
+            list.add(arr[i][right]);
         }
         right--;
-
         if(top<=bottom){
-        for(int i =right;i>=left;i--){
-            result.add(arr[bottom][i]);
+        for(int i=right;i>=left;i--){
+            list.add(arr[bottom][i]);
         }
 
         bottom--;
         }
-
         if(left<=right){
 
-        for(int i =bottom;i>=top;i--){
-            result.add(arr[i][left]);
+        for(int i=bottom;i>=top;i--){
+            list.add(arr[i][left]);
         }
         left++;
         }
-        
+
+
         }
-        return result;
+        return list;
+
     }
 }
