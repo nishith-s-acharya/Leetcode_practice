@@ -99,4 +99,8 @@ A structured repository dedicated to tracking my competitive programming journey
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
