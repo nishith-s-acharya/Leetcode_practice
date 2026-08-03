@@ -1,5 +1,10 @@
 class Solution {
-    public void reverse(int[] arr){
+    public static void swap(int[][] arr,int a,int b){
+        int temp = arr[a][b];
+        arr[a][b] = arr[b][a];
+        arr[b][a] = temp;
+    }
+    public static void shift(int[] arr){
         int n = arr.length;
         for(int i =0;i<arr.length/2;i++){
             int temp = arr[i];
@@ -7,27 +12,18 @@ class Solution {
             arr[n-i-1] = temp;
         }
     }
-    public void swap(int[][] arr, int i, int j){
-        int temp = arr[i][j];
-        arr[i][j] = arr[j][i];
-        arr[j][i] = temp;
-    }
-
-
-    public void rotate(int[][] arr) {
-
-        
-        for(int i =0;i<arr.length;i++){
-            for(int j =i+1;j<arr[i].length;j++){
-                if(i!=j){
-                    swap(arr,i,j);
+    public void rotate(int[][] matrix) {
+        for(int i =0;i<matrix.length;i++){
+            for(int j=i+1;j<matrix[i].length;j++){
+                if(j!=i){
+                    swap(matrix, i, j);
                 }
             }
         }
 
-
-        for(int i =0;i<arr.length;i++){
-            reverse(arr[i]);
+        for(int i =0;i<matrix.length;i++){
+            shift(matrix[i]);
         }
     }
+    
 }
