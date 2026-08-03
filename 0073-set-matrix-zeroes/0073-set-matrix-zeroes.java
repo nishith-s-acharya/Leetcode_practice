@@ -1,52 +1,45 @@
 class Solution {
-    public void setZeroes(int[][] arr) {
-        
+    public void setZeroes(int[][] matrix) {
+        // first i am marking my row and cols idx
 
-        //first check the element is zeror or not if yes mark it column and row marker to be 0
-        boolean colPart = false;
-        for(int i=0;i<arr.length;i++){
-            for(int j = 0;j<arr[i].length;j++){
-                if(arr[i][j]==0){
-                    arr[i][0] = 0;
-                   
+        boolean rowFound1 = false;
+       
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < matrix[i].length; j++) {
+                if (matrix[i][j] == 0) {
+                    matrix[i][0] = 0;
 
-                   if(j==0){
-                    colPart = true;
-                   }else{
-                    arr[0][j] = 0;
-                   }
+                    if (j == 0) {
+                        rowFound1 = true;
+                    } else {
 
+                        matrix[0][j] = 0;
+                    }
                 }
             }
         }
 
-        // after marking of i and j then check the row+1,col+1
-        for(int i =1;i<arr.length;i++){
-            for(int j=1;j<arr[i].length;j++){
-                if(arr[0][j]==0 || arr[i][0]==0){
-                    arr[i][j] = 0;
+        // marking the inner idx matrix
+
+        for (int i = 1; i < matrix.length; i++) {
+            for (int j = 1; j < matrix[i].length; j++) {
+                if (matrix[i][0] == 0 || matrix[0][j] == 0) {
+                    matrix[i][j] = 0;
                 }
             }
         }
 
-        // check for the column
+        if (matrix[0][0] == 0 ) {
+            for (int i = 0; i < matrix[0].length; i++) {
+                matrix[0][i] = 0;
+            }
+            
+        }
+        if (rowFound1) {
+            for (int i = 0; i < matrix.length; i++) {
+                matrix[i][0] = 0;
+            }
+        }
 
-        if(arr[0][0] == 0){
-            for(int i =0;i<arr[0].length;i++){
-                arr[0][i] = 0;
-            }
-        }
-        if(colPart){
-            for(int i = 0;i<arr.length;i++){
-                arr[i][0] = 0;
-            }
-        }
-
-        for(int i=0;i<arr.length;i++){
-            for(int j =0;j<arr[i].length;j++){
-                System.out.print(arr[i][j]);
-            }
-            System.out.println();
-        }
     }
 }
