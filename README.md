@@ -15,6 +15,7 @@ A structured repository dedicated to tracking my competitive programming journey
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0054-spiral-matrix) |
@@ -42,6 +43,7 @@ A structured repository dedicated to tracking my competitive programming journey
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -52,6 +54,7 @@ A structured repository dedicated to tracking my competitive programming journey
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nishith-s-acharya/Leetcode_practice/tree/master/0229-majority-element-ii) |
